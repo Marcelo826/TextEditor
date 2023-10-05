@@ -29,6 +29,6 @@ Este aplicativo é distribuído sob a licença MIT. Consulte o arquivo LICENSE p
 
 ## Contato
 
-Para relatar problemas ou fazer sugestões, entre em contato conosco em [seu-email@email.com].
+Para relatar problemas ou fazer sugestões, entre em contato conosco em [marcelo_vilelag@outlook.com].
 
-Obrigado por usar o TextEditor!
+Obrigado!
